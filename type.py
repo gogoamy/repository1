@@ -10,7 +10,7 @@ a = 10
 print('整形(int) a = ',a)
 
 
-b = 10.2                    
+b = 20.00                   
 print('浮点型(float) b = ',b)
 
 
