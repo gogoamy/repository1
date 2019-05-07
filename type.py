@@ -100,7 +100,7 @@ print('test[4]: ',test[4])
 # str[x:y]: 输出从x位置开始的字符一直到y位置（不包括y）
 
 print('test[0:2]: ',test[0:2])
-print('test[2:4]: ',test[2:4])
+print('test[2:4]: ',test[2:3])
 print('test[2:5]: ',test[2:5])
 
 
