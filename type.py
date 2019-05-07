@@ -67,7 +67,7 @@ print('String类型 s5 = ',s5)
 s6 = '''abc
 123
 erf
-ghj
+333
 tyu
 '''
 print('String类型 s6 = ',s6)
